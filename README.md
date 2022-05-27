@@ -14,4 +14,4 @@
   - Go to browsable api and confirm site properly restricts users based on their permissions.
 
 
-## [PR]()
+## [PR](https://github.com/noureddein/drf-api-permissions-postgres/pull/1)
